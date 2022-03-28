@@ -1,6 +1,6 @@
 // ============================================================================
 //  pciheader -- Prints the header of a PCI(e) device
-//  Author(s): Rodolfo Casillas, Jose Luis Jimenez, Erick Contreras
+//  Author(s): Jose Luis Jimenez, Rodolfo Casillas, Erick Contreras
 //             A01229493         A01633245          A01630105
 // ============================================================================
 
