@@ -1,5 +1,5 @@
 # PCIe - Print PCI Header
-User application for reading the Peripheral Component Interconnect (PCI) header located in the PCI’s configuration space.
+User application for reading the Peripheral Component Interconnect (PCI) header located in the PCI’s configuration space of a PCIe device.
 
 ## Compiling code
 
