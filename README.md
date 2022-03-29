@@ -3,7 +3,7 @@ User application for reading the Peripheral Component Interconnect (PCI) header 
 
 ## Compiling code
 
-In a Linux terminal, input the following commands in order to compile your application. 
+In a Linux terminal, input the following commands in order to compile the application. 
 1. ```make clean```
 2. ```make pciheader```
 
